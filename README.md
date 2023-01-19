@@ -1,6 +1,6 @@
 # [플러터] Diary 만들기(1인)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2e2c23c3-9d92-45cd-b3e1-bacc328781e0/Untitled.png)
+(https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2e2c23c3-9d92-45cd-b3e1-bacc328781e0/Untitled.png)
 
 ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7f39fa8b-40c3-4b5e-938f-097231c1013d/Untitled.png)
 

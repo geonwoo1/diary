@@ -1,8 +1,6 @@
 # [플러터] Diary 만들기(1인)
 
-(https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2e2c23c3-9d92-45cd-b3e1-bacc328781e0/Untitled.png)
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7f39fa8b-40c3-4b5e-938f-097231c1013d/Untitled.png)
+![image](https://user-images.githubusercontent.com/90121680/215307995-1249916a-53ab-4f03-a68d-364656145cb3.png)
 
 ## 🌞 프로젝트 기획 이유
 
@@ -27,61 +25,29 @@
 
 ## 2. 초기 화면 구성(카카오오븐 활용)
 
-## 메인화면
+## 메인화면  및 글 상세보기
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/517a7d26-e587-4749-b06e-c26be7c5c4b6/Untitled.png)
+![image](https://user-images.githubusercontent.com/90121680/215308068-0e00aec8-1dbd-4bf5-9a1c-1ca178379b03.png)
 
-## 글 상세보기
+## 편집화면 및 글 작성
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/99c91138-8dec-4392-ba72-9db5150ad22a/Untitled.png)
+![image](https://user-images.githubusercontent.com/90121680/215308410-8613297e-7bce-4712-be10-01f1dd51d396.png)
 
 # 3. 실제 구현 화면
 
-## 메인화면
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/17627316-f761-4fef-b82f-ad2554c75b60/Untitled.png)
-
-### 검색화면(검색전)
-
-## 
+## 메인화면 및 검색
+![image](https://user-images.githubusercontent.com/90121680/215308224-593292d7-6b30-46fd-905e-52623a44c335.png)
 
      
+### 글 작성화면 및 수정
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c4e5b5b2-2d53-45ad-a0c7-77870da94dc0/Untitled.png)
+![image](https://user-images.githubusercontent.com/90121680/215308336-5d8485c5-b38f-4c97-848b-feeee55e0c5b.png)
 
-### 글 작성화면
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/858ba405-087c-416e-862e-d624a73b09e1/Untitled.png)
+## 편집화면 및 글 상세보기
 
-### 글 수정
+![image](https://user-images.githubusercontent.com/90121680/215308476-1b353610-d304-4cf3-93b7-d6c5d4d461a0.png)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fb66da9b-f85f-40ed-81f1-2d266d5953d9/Untitled.png)
-
-## 편집화면
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bafb9e4b-a5ef-4fe7-971c-8d7319f5ed65/Untitled.png)
-
-## 글 작성화면
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8205f966-b4ea-4a27-a2fb-1a39476e8df0/Untitled.png)
-
-  
-
-## 글 상세보기
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b1388255-91aa-4ff9-b53b-bb5913c18f18/Untitled.png)
-
-### 검색화면(검색 후)
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/559cfa00-d689-4bcd-bfcf-5f05c318dee8/Untitled.png)
-
-### 편집화면
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/263a0e25-de26-4cca-88da-29298e6c0b70/Untitled.png)
-
-### 글 수정 후 메인화면
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8a773574-4a28-454b-8189-e6a3d7383551/Untitled.png)
 
 ## 느낀점 및 알게된 점
 
